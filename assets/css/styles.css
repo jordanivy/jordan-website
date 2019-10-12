@@ -21,7 +21,7 @@ header, h2, span.mdl-layout-title {
 
 .mdl-navigation__link {
   color: #191919 !important;
-  font-size: 24px !important;
+  font-size: 2vw !important;
   background-color: white;
   text-transform: uppercase;
   border-radius: 15px;
@@ -30,7 +30,7 @@ header, h2, span.mdl-layout-title {
 
 span.mdl-layout-title, h2 {
   color: #191919 !important;
-  font-size: 300% !important;
+  font-size: 4vw !important;
   letter-spacing: 10px !important;
   line-height: 200%;
 }
@@ -47,7 +47,7 @@ span.mdl-layout-title, h2 {
 
 .mdl-card__supporting-text > p {
   color: #191919 !important;
-  font-size: 24px !important;
+  font-size: 3vw !important;
   line-height: 150% !important;
 }
 
